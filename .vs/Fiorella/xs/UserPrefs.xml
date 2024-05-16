@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{959D9549-42FB-4248-A391-1B6D5E20A4A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fiorella PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fiorella/Views/Product/Index.cshtml">
+    <Files>
+      <File FileName="Fiorella/Controllers/ProductController.cs" Line="22" Column="1" />
+      <File FileName="Fiorella/Services/Interfaces/IProductService.cs" Line="9" Column="33" />
+      <File FileName="Fiorella/Services/ProductService.cs" Line="22" Column="52" />
+      <File FileName="Fiorella/Views/Home/Index.cshtml" Line="85" Column="62" />
+      <File FileName="Fiorella/Views/Product/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fiorella" expanded="True">
+            <Node name="Fiorella" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Product" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
